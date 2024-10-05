@@ -33,6 +33,12 @@
 
 ## Total cost 
 
+> **Total cost = SUM(shipments[cost])**
+>
+ ![image](https://github.com/user-attachments/assets/77891dbf-442f-41f1-a5f2-12c1be9eeb34)
+ >
+
+
 ## Low box shippment count (LBS count)
 
 ## LBS%

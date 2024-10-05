@@ -17,6 +17,12 @@
 
 
 ## Total boxes 
+>**Total boxes = sum(shipments[Boxes])**
+
+>>
+   ![image](https://github.com/user-attachments/assets/1fe12a26-44e7-47d5-be64-9efc59e21169)
+
+>>
 
 ## Total shipments
 

@@ -8,11 +8,10 @@
 ## Total sales 
 > **Total sales = sum(shipments[Sales])**
 
-**Highlighted Image:**
 
+>>
 ![image](https://github.com/user-attachments/assets/ce911345-0226-4e74-938d-b451d68cfb7b)
-
-**This image illustrates...**
+>>
 
 
 

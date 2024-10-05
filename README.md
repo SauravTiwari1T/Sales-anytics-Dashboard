@@ -6,7 +6,7 @@
 # Key mesures 
 
 ## Total sales 
-
+### Total sales = sum(shipments[Sales])
 ## Total boxes 
 
 ## Total shipments

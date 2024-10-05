@@ -45,6 +45,12 @@
 
 >
 
+## Profit%
+>**Profit % = DIVIDE([Total profit],[Total sales])**
+>
+![image](https://github.com/user-attachments/assets/6cab52ff-3366-4ee2-9192-d56375f2d66c)
+
+>
 ## Low box shippment count (LBS count)
 
 ## LBS%

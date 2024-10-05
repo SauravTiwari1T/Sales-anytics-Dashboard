@@ -38,6 +38,12 @@
  ![image](https://github.com/user-attachments/assets/77891dbf-442f-41f1-a5f2-12c1be9eeb34)
  >
 
+## Total profit 
+>**Total profit = [Total sales]-[Total cost]**
+>
+![image](https://github.com/user-attachments/assets/46c58259-ef4e-4a3a-aa54-1ca97126c1bc)
+
+>
 
 ## Low box shippment count (LBS count)
 

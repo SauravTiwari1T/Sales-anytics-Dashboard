@@ -9,7 +9,7 @@
 > **Total sales = sum(shipments[Sales])**
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/68db596b-ccdf-40b1-a92a-2dd97740accc)
+  <img src='![image](https://github.com/user-attachments/assets/68db596b-ccdf-40b1-a92a-2dd97740accc)' />
 </p>
 
 

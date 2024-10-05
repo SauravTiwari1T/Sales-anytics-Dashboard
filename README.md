@@ -52,8 +52,18 @@
 
 >
 ## Low box shippment count (LBS count)
+>**LBS COunt = CALCULATE([Total shipment],shipments[Boxes]<50)**
+>
+![image](https://github.com/user-attachments/assets/af28b565-2450-449c-8fb3-14db80a4c612)
+>
+
 
 ## LBS%
+>**LBS% = DIVIDE( [LBS COunt] , [Total shipment])**
+>
+![image](https://github.com/user-attachments/assets/3963c9ea-c884-43d9-a090-5a8330b18f5d)
+>
+
 
 ## Month on month chnages 
 

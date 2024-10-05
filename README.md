@@ -26,7 +26,9 @@
 
 ## Total shipments
 >**Total shipment = COUNTROWS(shipments)**
->![image](https://github.com/user-attachments/assets/a66fdc49-8b17-45d2-ab65-98ff568a245a)
+>
+![image](https://github.com/user-attachments/assets/a66fdc49-8b17-45d2-ab65-98ff568a245a)
+>
 
 
 ## Total cost 

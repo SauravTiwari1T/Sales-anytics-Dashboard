@@ -64,9 +64,25 @@
 ![image](https://github.com/user-attachments/assets/3963c9ea-c884-43d9-a090-5a8330b18f5d)
 >
 
+![image](https://github.com/user-attachments/assets/b0894ceb-3c4c-4227-96cd-d14d892e12c2)
 
-## Month on month chnages 
 
-## Year on year chnages 
+
+![image](https://github.com/user-attachments/assets/a0495a25-7cb4-420d-bc15-5a9fa5c684cf)
+
+
+![image](https://github.com/user-attachments/assets/cf512c03-fa61-4b76-839c-f9f5af3b8e4f)
+
+![image](https://github.com/user-attachments/assets/a923eb34-29c0-4e70-ab98-259c5f638538)
+
+![image](https://github.com/user-attachments/assets/c72744f8-7d03-4219-9910-211c7dc6f9a0)
+
+![image](https://github.com/user-attachments/assets/25f14655-3f2e-42ed-8249-ad38edbf87c4)
+
+
+
+
+
+
 
 
